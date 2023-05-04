@@ -1,10 +1,10 @@
-8 is the 1 number in ascending order
-609 is the 15 number in ascending order
-174 is the 3 number in ascending order
-65 was not found in file
-166 is the 3 number in ascending order
-333 is the 6 number in ascending order
-896 is the 18 number in ascending order
-12 is the 1 number in ascending order
-371 is the 8 number in ascending order
-100 is the 3 number in ascending order
+8 is the 25 number in ascending order
+9 is the 19 number in ascending order
+21 is the 12 number in ascending order
+526 is the 28 number in ascending order
+3 is the 4 number in ascending order
+65 is the 21 number in ascending order
+54 is the 20 number in ascending order
+521 is the 24 number in ascending order
+8 is the 19 number in ascending order
+886 was not found in file

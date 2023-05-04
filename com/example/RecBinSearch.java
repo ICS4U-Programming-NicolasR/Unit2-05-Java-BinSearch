@@ -67,6 +67,7 @@ public final class RecBinSearch {
     public static int recBinSearch(final int[] randomNumbers,
                                      final int requestedNum) {
         // call the same function but this time with more arguments
+        System.out.println(randomNumbers[0]);
         return recBinSearch(randomNumbers, requestedNum, 0,
                             randomNumbers.length - 1);
     }
